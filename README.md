@@ -15,8 +15,7 @@ This project quantifies the loss of high-quality habitat in the Phoenix, Arizona
 
 This work demonstrates modern geospatial data science workflows by accessing large-scale environmental datasets directly from cloud storage and performing reproducible spatial analysis.
 
-![Phoenix BII Analysis](<img width="839" height="749" alt="image" src="https://github.com/user-attachments/assets/6bd897e8-4260-4beb-8f1a-1d300aacf5af" />
-)
+![Phoenix BII Analysis](https://github.com/user-attachments/assets/6bd897e8-4260-4beb-8f1a-1d300aacf5af)
 
 ## Repository Structure
 
