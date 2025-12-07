@@ -51,6 +51,12 @@ Impact Observatory & Vizzuality. (2023). *Biodiversity Intactness Index* [Datase
 
 U.S. Census Bureau. (2025). *TIGER/Line Shapefiles: County Subdivisions* [Dataset]. https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=County+Subdivisions
 
+**Background**
+
+Z. Levitt and J. Eng, “Where America’s developed areas are growing: ‘Way off into the horizon’,” The Washington Post, Aug. 2021, Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Nov. 22, 2024]
+
+F. Gassert, J. Mazzarello, and S. Hyde, “Global 100m Projections of Biodiversity Intactness for the years 2017-2020 [Technical Whitepaper].” Aug. 2022. Available: https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf
+
 **Code Resources:**
 
 Microsoft Planetary Computer. (2025). Biodiversity Intactness Index example notebook. https://planetarycomputer.microsoft.com/dataset/io-biodiversity#Example-Notebook
