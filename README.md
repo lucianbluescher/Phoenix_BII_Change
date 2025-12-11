@@ -1,5 +1,7 @@
 # Biodiversity Intactness Index Change in Phoenix, Arizona (2017-2020)
 
+![Phoenix BII Analysis](images/BIII_phoenix.png)
+
 **Author**: Lucian Scher  
 **Repository**: https://github.com/lucianbluescher/Phoenix_BII_Change  
 **Date**: December 2025
@@ -14,8 +16,6 @@ This project quantifies the loss of high-quality habitat in the Phoenix, Arizona
 - Results are visualized through static maps and temporal GIFs to communicate biodiversity change patterns
 
 This work demonstrates modern geospatial data science workflows by accessing large-scale environmental datasets directly from cloud storage and performing reproducible spatial analysis.
-
-![Phoenix BII Analysis](images/BIII_phoenix.png)
 
 ## Repository Structure
 
