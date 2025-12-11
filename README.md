@@ -20,13 +20,13 @@ This work demonstrates modern geospatial data science workflows by accessing lar
 ## Repository Structure
 
 ```
-Phoenix_BII_Change/
-│
-├── phoenix_BII.ipynb # Jupyter notebook
-├── data/
-│ └── tl_2025_04_cousub/ # Geographic data (Census shapefile)
-│
-└── README.md
+Phoenix_BII_Change
+├── phoenix_BII_files/        # Quarto/Notebook support files
+├── .gitignore                # Git ignore rules
+├── README.md                 # Project overview and instructions
+├── phoenix_BII.html          # Rendered HTML output of the BII analysis
+└── phoenix_BII.ipynb         # Jupyter notebook for the BII analysis
+
 ```
 
 ## Data
