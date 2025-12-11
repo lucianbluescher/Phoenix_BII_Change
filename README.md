@@ -21,6 +21,7 @@ This work demonstrates modern geospatial data science workflows by accessing lar
 
 ```
 Phoenix_BII_Change
+├── images                    # Save output image for README
 ├── phoenix_BII_files/        # Quarto/Notebook support files
 ├── .gitignore                # Git ignore rules
 ├── README.md                 # Project overview and instructions
